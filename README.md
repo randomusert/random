@@ -22,3 +22,5 @@ Tämän pakettivaraston muokkaamiseksi MakeCodessa.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+# note!
+this is generated with makecode and because of that it is in finnish
